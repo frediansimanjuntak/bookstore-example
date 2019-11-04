@@ -1,6 +1,13 @@
 # Bookstore-example
 This branch just for example how to make simple authentication and CRUD with laravel
 
+## Setup Device
+
+To run laravel you need to set up it first.
+- install composer: `https://getcomposer.org/`
+- install xampp: `https://www.apachefriends.org/download.html`
+    
+    
 ## Getting Started
 
 Clone this repositories
