@@ -26,7 +26,9 @@ Start the server
     
     php artisan serve
     
-And now you can access the project with `localhost:8000` 
+And now you can access the project with 
+    
+    localhost:8000
 
 
 ## Others
