@@ -1,4 +1,4 @@
-# bookstore-example
+# Bookstore-example
 This branch just for example how to make simple authentication and CRUD with laravel
 
 ## Getting Started
