@@ -33,7 +33,7 @@ And now you can access the project with
 
 ## Others
 
-To setup the authentication with laravel 6, run tihs command, follow this link (https://laravel-news.com/running-make-auth-in-laravel-6):
+To setup the authentication with laravel 6, run this command, follow this link (https://laravel-news.com/running-make-auth-in-laravel-6):
 
     composer require laravel/ui
     php artisan ui:auth
